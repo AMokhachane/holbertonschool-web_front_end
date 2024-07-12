@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <link rel="icon" href="/path/to/your/favicon.ico" type="image/x-icon"> <!-- Example of favicon link -->
+    <!-- Include other head elements here -->
+</head>
+<body>
+    <!-- Your website content -->
+    <header>
+        <img src="/path/to/your/logo-black.png" alt="Logo" width="200" height="100">
+    </header>
+    <!-- Other content -->
+</body>
+</html>

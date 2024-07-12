@@ -1,1 +1,1 @@
-Author Amanda Mokhachane
+Author Amanda Mokhachanne
